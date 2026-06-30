@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi there :pencil:
 
-<!--
-**GMCarlinhos/GMCarlinhos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou o José Carlos. Sou um programador Front End, Back End, Full stac. Atualmete estou aprendendo e criando projetos em HTML, CSS e começando a de JavaScript e React.
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo">
+- CSS  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt=" CSS-logo">
+  
+<br>
+## Conecte-se Comigo
+<p>
+
+
+  
+</p>
+
+  
+ [![José Carlos stats](https://github-readme-stats.vercel.app/api?username=GMCarlinhos)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GMCarlinhos)](https://github.com/anuraghazra/github-readme-stats)
